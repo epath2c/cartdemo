@@ -1,3 +1,3 @@
-用React写一个购物车
+Develop a shopping cart using React
 
-成品：https://react-projects-practice-cartdemo.netlify.app/
+Webpage：https://react-projects-practice-cartdemo.netlify.app/
